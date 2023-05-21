@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Nbdevtut"
+  site-url: "https://Dhkj.github.io/Nbdevtut"
+  description: "Nbdevtut"
+  repo-branch: main
+  repo-url: "https://github.com/Dhkj/Nbdevtut"
